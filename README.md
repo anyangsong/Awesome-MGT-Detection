@@ -12,7 +12,25 @@ One additional note: this repository does not cover the special subfield of wate
 
 
 
-# Key Conclusions, Findings, and Important Research Questions Based on Existing Research
+## TOC
+
+- [Key Conclusions, Findings, and Important Research Questions Based on Existing Research](#key-conclusions-findings-and-important-research-questions-based-on-existing-research)
+- [Surveys](#surveys)
+- [Detection Methods](#detection-methods)
+  - [Metric-based](#metric-based)
+  - [Neural-based](#neural-based)
+- [Resources and Evaluation](#resources-and-evaluation)
+  - [Pure MGT](#pure-mgt)
+  - [Human-AI Mixed Text](#human-ai-mixed-text)
+- [Attacks](#attacks)
+- [Analysis](#analysis)
+- [Systems and Tools](#systems-and-tools)
+- [Other Related Works](#other-related-works)
+- [Workshops and Shared Tasks](#workshops-and-shared-tasks)
+
+
+
+## Key Conclusions, Findings, and Important Research Questions Based on Existing Research
 
 **The following summary is organized from simple to complex. The preceding text covers the most basic fundamentals of the field and can be skipped.**
 
@@ -222,7 +240,7 @@ One additional note: this repository does not cover the special subfield of wate
 
 
 
-## Detection Method
+## Detection Methods
 
 ###  Metric-based
 
