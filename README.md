@@ -1,17 +1,5 @@
 # Awesome MGT Detection
 
-This repository is developed from and builds upon the [ICTMCG/Awesome-Machine-Generated-Text](https://github.com/ICTMCG/Awesome-Machine-Generated-Text) repository.
-
-While retaining some representative papers from the earlier collection, this repository focuses primarily on adding recent papers accepted to top-tier conferences.
-
-Given the strong and efficient document-reading capabilities of modern LLMs, I have chosen not to follow the practice of similar repositories by providing a paper summary for each work or documenting further details such as motivation, ideas, experiments and results, analysis and findings, limitations, and future prospects. In my view, doing so would provide relatively limited additional value.
-
-Instead, I share my own synthesis of the important findings from existing research, as well as the major open problems that remain unresolved. Of course, this synthesis cannot be fully comprehensive; I have simply tried to cover the most important aspects as much as possible. I hope it can help readers gain a rough understanding of the development and direction of this research field.
-
-One additional note: this repository does not cover the special subfield of watermarking.
-
-
-
 ## TOC
 
 - [Key Conclusions, Findings, and Important Research Questions Based on Existing Research](#key-conclusions-findings-and-important-research-questions-based-on-existing-research)
@@ -28,7 +16,15 @@ One additional note: this repository does not cover the special subfield of wate
 - [Other Related Works](#other-related-works)
 - [Workshops and Shared Tasks](#workshops-and-shared-tasks)
 
+This repository is developed from and builds upon the [ICTMCG/Awesome-Machine-Generated-Text](https://github.com/ICTMCG/Awesome-Machine-Generated-Text) repository.
 
+While retaining some representative papers from the earlier collection, this repository focuses primarily on adding recent papers accepted to top-tier conferences.
+
+Given the strong and efficient document-reading capabilities of modern LLMs, I have chosen not to follow the practice of similar repositories by providing a paper summary for each work or documenting further details such as motivation, ideas, experiments and results, analysis and findings, limitations, and future prospects. In my view, doing so would provide relatively limited additional value.
+
+Instead, I share my own synthesis of the important findings from existing research, as well as the major open problems that remain unresolved. Of course, this synthesis cannot be fully comprehensive; I have simply tried to cover the most important aspects as much as possible. I hope it can help readers gain a rough understanding of the development and direction of this research field.
+
+One additional note: this repository does not cover the special subfield of watermarking.
 
 ## Key Conclusions, Findings, and Important Research Questions Based on Existing Research
 
