@@ -1,4 +1,4 @@
-# Awesome Machine-Generated-Text Detection
+# Awesome MGT Detection
 
 ## TOC
 
