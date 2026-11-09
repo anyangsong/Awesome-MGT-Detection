@@ -1,5 +1,7 @@
 # Awesome MGT Detection
 
+2026.11.9 marked: EMNLP 2026 and ICML 2026 to be updated.
+
 ## TOC
 
 - [Key Conclusions, Findings, and Important Research Questions Based on Existing Research](#key-conclusions-findings-and-important-research-questions-based-on-existing-research)
