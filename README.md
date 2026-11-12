@@ -511,6 +511,7 @@ Note: The benchmarks listed under this subsection include Human-AI Mixed Text. M
   - Position Paper
 - **Stumbling Blocks: Stress Testing the Robustness of Machine-Generated Text Detectors Under Attacks.** [[paper]](https://aclanthology.org/2024.acl-long.160) ![](https://img.shields.io/badge/ACL%202024-orange)
 - **Navigating the Shadows: Unveiling Effective Disturbances for Modern AI Content Detectors.** [[paper]](https://aclanthology.org/2024.acl-long.584) ![](https://img.shields.io/badge/ACL%202024-orange)
+- **A Ship of Theseus: Curious Cases of Paraphrasing in LLM-Generated Texts.** [[paper]](https://aclanthology.org/2024.acl-long.357/) ![](https://img.shields.io/badge/ACL%202024-orange)
 - **AI-generated text boundary detection with RoFT.** [[paper]](https://openreview.net/pdf?id=kzzwTrt04Z) ![](https://img.shields.io/badge/COLM%202024-orange) ![](https://img.shields.io/badge/Outstanding%20Paper-purple)
 - **How You Prompt Matters! Even Task-Oriented Constraints in Instructions Affect LLM-Generated Text Detection.** [[paper]](https://aclanthology.org/2024.findings-emnlp.841/) ![](https://img.shields.io/badge/EMNLP%20Findings%202024-orange)
 - **Authorship Obfuscation in Multilingual Machine-Generated Text Detection.** [[paper]](https://aclanthology.org/2024.findings-emnlp.369/) ![](https://img.shields.io/badge/EMNLP%20Findings%202024-orange)
